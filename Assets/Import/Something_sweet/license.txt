@@ -1,0 +1,11 @@
+Model Information:
+* title:	Something sweet
+* source:	https://sketchfab.com/3d-models/something-sweet-a78c8c834fd54dbda5c9a8e120050102
+* author:	DANIEL WEINLEIN (https://sketchfab.com/danielweinlein)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Something sweet" (https://sketchfab.com/3d-models/something-sweet-a78c8c834fd54dbda5c9a8e120050102) by DANIEL WEINLEIN (https://sketchfab.com/danielweinlein) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	happy birthday cake
+* source:	https://sketchfab.com/3d-models/happy-birthday-cake-6e890bcf15fb4c889de6ac1773327978
+* author:	aggarwalekansh901 (https://sketchfab.com/aggarwalekansh901)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "happy birthday cake" (https://sketchfab.com/3d-models/happy-birthday-cake-6e890bcf15fb4c889de6ac1773327978) by aggarwalekansh901 (https://sketchfab.com/aggarwalekansh901) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

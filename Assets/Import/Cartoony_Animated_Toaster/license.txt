@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cartoony Animated Toaster
+* source:	https://sketchfab.com/3d-models/cartoony-animated-toaster-016f56f0c44a4cc88f4b764a5a83e326
+* author:	Damco (https://sketchfab.com/jondameron5)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cartoony Animated Toaster" (https://sketchfab.com/3d-models/cartoony-animated-toaster-016f56f0c44a4cc88f4b764a5a83e326) by Damco (https://sketchfab.com/jondameron5) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

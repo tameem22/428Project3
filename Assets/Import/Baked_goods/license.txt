@@ -1,0 +1,11 @@
+Model Information:
+* title:	Baked goods
+* source:	https://sketchfab.com/3d-models/baked-goods-d1ae09e3cb8343bc8790b15928452906
+* author:	Rigsters (https://sketchfab.com/rigsters)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Baked goods" (https://sketchfab.com/3d-models/baked-goods-d1ae09e3cb8343bc8790b15928452906) by Rigsters (https://sketchfab.com/rigsters) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
