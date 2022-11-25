@@ -13,3 +13,13 @@ Golurk Sound: https://tuna.voicemod.net/sound/c3738b24-0d94-4dbd-8f52-6cbb2539d1
 Set of Pokeballs: https://sketchfab.com/3d-models/pokeballs-84120cf99f074b89bd3b7619a426d708
 
 Luxury Ball and Premier Ball: https://sketchfab.com/3d-models/pokeballs-9ed22659c17542a28d788ede647a46cf
+
+Scarlet Violet Starters art: https://www.artstation.com/artwork/YKOGx6
+
+Rug texture: https://kebabians.com/product/designer-texture-silk-wool-knotted-modern-blue-rug/
+
+Motivational poster: https://www.deviantart.com/ommin202/art/Rest-366204864
+
+Motivational poster 2: https://www.deviantart.com/ommin202/art/Rest-366204864
+
+Eevee poster: https://imgur.com/zIOdoUW
