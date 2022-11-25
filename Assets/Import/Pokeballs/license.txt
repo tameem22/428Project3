@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pokeballs
+* source:	https://sketchfab.com/3d-models/pokeballs-84120cf99f074b89bd3b7619a426d708
+* author:	ThadeuJ (https://sketchfab.com/ThadeuJ)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pokeballs" (https://sketchfab.com/3d-models/pokeballs-84120cf99f074b89bd3b7619a426d708) by ThadeuJ (https://sketchfab.com/ThadeuJ) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
