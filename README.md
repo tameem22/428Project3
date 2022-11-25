@@ -16,6 +16,8 @@ Set of Pokeballs: https://sketchfab.com/3d-models/pokeballs-84120cf99f074b89bd3b
 
 Luxury Ball and Premier Ball: https://sketchfab.com/3d-models/pokeballs-9ed22659c17542a28d788ede647a46cf
 
+Oran Berry: https://sketchfab.com/3d-models/oran-berryzip-5f8TCojZ7To8mT0EGgedy4aOaa
+
 Scarlet Violet Starters art: https://www.artstation.com/artwork/YKOGx6
 
 Rug texture: https://kebabians.com/product/designer-texture-silk-wool-knotted-modern-blue-rug/
