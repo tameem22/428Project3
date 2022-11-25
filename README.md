@@ -6,6 +6,8 @@ Animated Beedrill: https://sketchfab.com/3d-models/beedrill-d1bdf5065da3415cbbce
 
 Golurk: https://sketchfab.com/3d-models/golurk-e4f82b6cf78d4714a5758030909c5f1b
 
+Glaceon: https://sketchfab.com/3d-models/glaceon-66754b5b68d3493ab1a1083a89106ce3
+
 Pokeball sound effect: https://www.youtube.com/watch?v=NoufAlvp4QA
 
 Golurk Sound: https://tuna.voicemod.net/sound/c3738b24-0d94-4dbd-8f52-6cbb2539d146
@@ -27,3 +29,4 @@ Motivational poster: https://www.deviantart.com/ommin202/art/Rest-366204864
 Motivational poster 2: https://www.deviantart.com/ommin202/art/Rest-366204864
 
 Eevee poster: https://imgur.com/zIOdoUW
+
