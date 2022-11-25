@@ -9,3 +9,7 @@ Golurk: https://sketchfab.com/3d-models/golurk-e4f82b6cf78d4714a5758030909c5f1b
 Pokeball sound effect: https://www.youtube.com/watch?v=NoufAlvp4QA
 
 Golurk Sound: https://tuna.voicemod.net/sound/c3738b24-0d94-4dbd-8f52-6cbb2539d146
+
+Set of Pokeballs: https://sketchfab.com/3d-models/pokeballs-84120cf99f074b89bd3b7619a426d708
+
+Luxury Ball and Premier Ball: https://sketchfab.com/3d-models/pokeballs-9ed22659c17542a28d788ede647a46cf
