@@ -12,6 +12,8 @@ Pokeball sound effect: https://www.youtube.com/watch?v=NoufAlvp4QA
 
 Golurk Sound: https://tuna.voicemod.net/sound/c3738b24-0d94-4dbd-8f52-6cbb2539d146
 
+Glaceon sound: https://www.myinstants.com/en/instant/glaceon-36918/
+
 Item found sound effect: https://www.myinstants.com/en/instant/pokemon-item-found-50824/
 
 Set of Pokeballs: https://sketchfab.com/3d-models/pokeballs-84120cf99f074b89bd3b7619a426d708
